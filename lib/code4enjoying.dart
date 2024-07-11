@@ -1,3 +1,5 @@
 int calculate() {
-  return 6 * 7;
+	print("Calculation");
+  return 6 * 9;
+
 }
